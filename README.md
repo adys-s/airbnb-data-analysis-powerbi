@@ -29,7 +29,7 @@ Comprendre la structure du marché et identifier les zones les plus actives.
 * Répartition par arrondissement (Manhattan, Brooklyn…)
 * Carte géographique des logements
 
-  ![Vue d'ensemble](images/Vue_d’ensemble_du_marché_Airbnb_New York.png)
+  ![Dashboard](images/Vue_d’ensemble_du_marché_Airbnb_New_York.png)
 
 
 
@@ -52,7 +52,7 @@ Identifier les zones offrant le meilleur équilibre entre prix et demande, afin 
 * Analyse de l’attractivité par arrondissement et type de logement (heatmap)
 * Relation entre prix et popularité (nuage de points)
 
-![Performance](images/Performance_&_opportunités Airbnb.png)
+![Dashboard](images/Performance_&_opportunités_Airbnb.png)
 
 ---
 
